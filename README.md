@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Abir2307
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning at RCCIIT 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web development  to build user-friendly applications, while machine learning adds powerful capabilities for analyzing data, making predictions, and personalizing user experiences.
+- 📫 How to reach me : abir548@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Machine learning is often running behind the scenes in web applications we use daily! And in web development, frameworks like TensorFlow.js allow developers to run ML models directly in the browser, making it possible to create smart applications without relying on a server.
 
 <!---
 Abir2307/Abir2307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
