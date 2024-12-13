@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abir Saha
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in Full Stack development and machine learning
 - 🌱 I’m currently learning at RCCIIT 
 - 💞️ I’m looking to collaborate on Full Stack development  to build user-friendly applications, while machine learning adds powerful capabilities for analyzing data, making predictions, and personalizing user experiences.
 - 📫 How to reach me : abirsaha548@gmail.com
