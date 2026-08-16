@@ -5,5 +5,3 @@
 How to reach me : abirsaha548@gmail.com
 Pronouns: He
 Fun fact: Machine learning is often running behind the scenes in web applications we use daily! And in web development, frameworks like TensorFlow.js allow developers to run ML models directly in the browser, making it possible to create smart applications without relying on a server.
-## 📊 GitHub Stats   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abir2307&theme=radical) 
