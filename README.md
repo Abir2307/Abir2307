@@ -40,12 +40,11 @@ I work primarily with **Java, Spring Boot, Python, SQL, REST APIs, and databases
 | **Radiographic Enhancement**                  | Image-processing system for enhancing radiographic images using deep learning techniques.                                |
 | **Resource Conflict Scheduler**               | Spring Boot application for identifying and managing scheduling/resource conflicts.                                      |
 | **Smart Vehicle Parking Management**          | Software system for managing vehicle parking allocation and availability.                                                |
-| **Enterprise Business Platform (Pragati)**    | Enterprise application prototype using React, TypeScript, NestJS and Docker for business workflows.                      |
+| **Enterprise Business Platform**              | Enterprise application prototype using React, TypeScript, NestJS and Docker for business workflows.                      |
 | **LLM/AI Projects**                           | Applied machine learning and NLP projects covering model evaluation, transformers and intelligent automation.            |
 | **EEG/P300 Analysis**                         | Deep learning pipeline for biomedical signal classification using preprocessing, balancing and neural models.            |
 | **Tea Mosquito Bug Analysis**                 | Computer vision workflow for detecting and analysing tea plantation pest activity from UAV imagery.                      |
 | **Multispectral Image Processing**            | RGB/multispectral image registration, vegetation-index computation and feature alignment for agricultural analysis.      |
-| **Resource & Workflow Systems**               | Software projects focused on scheduling, workflow automation and structured data processing.                             |
 
 ---
 
